@@ -1,0 +1,2 @@
+rootProject.name='Pengurus Uang'
+include ':app'
